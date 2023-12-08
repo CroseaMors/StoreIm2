@@ -21,4 +21,6 @@ Guide (Not Final)
 
 >  If Customer is Member, Customer can have 5% discount on items the customer bought
 
->  ??
+>??
+>Suggestions:
+>Add IsSale{Boolean}?
